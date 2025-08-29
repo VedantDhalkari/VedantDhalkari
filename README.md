@@ -1,60 +1,93 @@
-![logo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdzM3ZucXk4Y2dxMzJ4dnZ3d2M0c3duNmV2dGdwdGN1Z2htcDJqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l3fQh6V3J5t7G3D4Q/giphy.gif)
+![MasterHead](https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/6/3/b/small-spos14883-poster-poster-do-something-great-sl-14896-wall-original-imagkb9cgucq9fgp.jpeg?q=90&crop=false)
 
-<h1 align="center">Hello World! 👋, I'm Vedant Dhalkari</h1>
-<h3 align="justify">
-🎓 B.Tech Computer Engineering (3rd Year) student @ Vishwakarma University, Pune.  
-💡 Passionate about <b>Cybersecurity, Cloud Computing, and DevSecOps</b>.  
-🔐 I love building secure, scalable systems while exploring offensive & defensive security.  
-</h3>
+<h1 align="center">Hi 👋, I'm Vedant Dhalkari</h1>
+<h3 align="center">🚀 DevSecOps Engineer | Cloud Security Enthusiast | Bug Bounty Hunter</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=VedantDhalkari&label=Profile%20views&color=0e75b6&style=flat" alt="VedantDhalkari" /> 
-</p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ---
 
-- 🌱 I’m currently learning **Advanced DevSecOps, Kubernetes Security, and Bug Bounty**  
-- 👨‍💻 All of my projects are available on [My GitHub](https://github.com/VedantDhalkari)  
-- 💬 Ask me about **DevOps, Cloud Security, Pentesting, Networking**  
-- 📫 Reach me at **vedantdhalkari001@gmail.com**  
-- ⚡ Fun fact: *By day I secure systems, by night I break them to make them stronger!* 🔥  
+- 🔭 Currently working as **DevSecOps Lead @ HICA**
+- 🌱 Exploring **Cloud Security, Red Teaming, and DevOps**
+- 💬 Ask me about **Azure, AWS, DevSecOps, Linux, Security Testing**
+- 🤝 Open to collaborating on **Cybersecurity Projects / Cloud Automation**
+- ⚡ Fun fact: *I secure before I deploy!*
 
 ---
 
-<h3 align="left">🔗 Connect with me:</h3>
+## 🌍 Connect With Me  
 <p align="left">
-<a href="https://linkedin.com/in/vedant-dhalkari" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" /></a>
-<a href="https://github.com/VedantDhalkari" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="40" width="40" /></a>
-<a href="mailto:vedantdhalkari001@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmail" height="40" width="50" /></a>
+  <a href="https://linkedin.com/in/vedant-dhalkari" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:vedantdhalkari@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-Contact-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/VedantDhalkari" target="blank"><img src="https://img.shields.io/badge/GitHub-Follow-%23121011?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
 
-<h3 align="left">⚒️ Languages & Tools:</h3>
-<p align="left">
-<a href="https://aws.amazon.com" target="_blank"><img src="https://logohistory.net/wp-content/uploads/2023/06/AWS-Emblem.png" width="60" height="40"/></a>
-<a href="https://azure.microsoft.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="50" height="40"/></a>
-<a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg" width="40" height="40"/></a>
-<a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" width="80" height="40"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="40" height="40"/></a>
-<a href="https://isocpp.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="40" height="40"/></a>
-<a href="https://portswigger.net/burp" target="_blank"><img src="https://avatars.githubusercontent.com/u/438980?s=200&v=4" width="40" height="40"/></a>
-<a href="https://www.metasploit.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Metasploit_logo_and_wordmark.png" width="60" height="40"/></a>
+## 🏢 Work Experience
+- **DevSecOps Lead** – *HICA*  
+- **Cybersecurity Intern** – *Hacktify Security*  
+- **Microsoft Azure Cloud Intern** – *KasNet Technologies*  
+
+---
+
+## 🏅 Certifications
+<div align="center">
+  
+- 🟦 **Microsoft Certified: Azure Fundamentals (AZ-900)**  
+- 🟥 **Red Hat Linux (RHEL)**  
+- 🟧 **Cisco Certified Network Associate (CCNA)**  
+- 🟩 **OWASP® Top 10 Security Threats (SKF100)**  
+- 🟨 **Cisco Certified Introduction to Cybersecurity**  
+- 🟪 **Cybersecurity Essentials – The Linux Foundation**  
+- ☁️ **AWS Fundamentals of DevOps**  
+- 🔵 **Google Cloud Security & Operations**  
+- 🐳 **Containers & Kubernetes Essentials – IBM**  
+- 🐋 **Docker Essentials – IBM**  
+- 🛡️ **Defend Against Threats with Microsoft 365**  
+
+</div>
+
+---
+
+## 💻 Tech Stack
+### 🔐 Cybersecurity & Cloud
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![RedHat](https://img.shields.io/badge/RedHat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 👨‍💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=VedantDhalkari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantDhalkari&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VedantDhalkari&theme=tokyonight&hide_border=false" alt="streak stats"/>
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VedantDhalkari&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VedantDhalkari&show_icons=true&locale=en&layout=compact" alt="VedantDhalkari" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VedantDhalkari&show_icons=true&locale=en" alt="VedantDhalkari" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VedantDhalkari&" alt="VedantDhalkari" /></p>
+<p align="center"> 
+  Visitor Count <br>
+  <img src="https://profile-counter.glitch.me/VedantDhalkari/count.svg" />
+</p>
