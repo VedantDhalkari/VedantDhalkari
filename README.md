@@ -1,13 +1,6 @@
-<!-- Background image -->
-<p align="center">
-  <img src="assets/Linkedin_background_image_updated.png" alt="LinkedIn Background Image" width="100%">
-</p>
 
 <!-- Hero text -->
 <h1 align="center">Hey 👋, <a href="linkedin.com/in/vedant-dhalkari">I'm Vedant_Dhalkari 👨‍💻</a></h1>
-
-
-
 
 <!-- Snake Game -->
 <picture align="center">
