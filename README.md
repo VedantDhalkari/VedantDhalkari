@@ -1,3 +1,10 @@
+<!-- Snake Game -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhiz2411/Abhiz2411/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhiz2411/Abhiz2411/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Abhiz2411/Abhiz2411/output/github-snake.svg" />
+</picture>
+
 ![banner](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 <h1 align="center">👋 Hey there, I'm Vedant Dhalkari</h1>
